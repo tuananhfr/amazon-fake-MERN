@@ -1,0 +1,6 @@
+@import "./base.css";
+/* Components */
+@import "./components/MainLayout.css";
+
+/* Pages */
+/* @import "./pages/DashBoard.css"; */
